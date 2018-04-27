@@ -1,0 +1,4 @@
+*.caffemodel
+*.mat
+*.txt
+code_bk/
